@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Miguel Toro\\Downloads\\spd_p9_tejado_vS2010_alumnos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE786F46-F2AF-4795-8D78-AE046751CDD3}|ej1\\ej1.vcxproj|C:\\Users\\Miguel Toro\\Downloads\\spd_p9_tejado_vS2010_alumnos\\ej1\\principal_ej1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE786F46-F2AF-4795-8D78-AE046751CDD3}|ej1\\ej1.vcxproj|solutionrelative:ej1\\principal_ej1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8860FD-CE27-41E3-9F02-4B162B323CCD}|ej2\\ej2.vcxproj|C:\\Users\\Miguel Toro\\Downloads\\spd_p9_tejado_vS2010_alumnos\\ej2\\principal_ej2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B8860FD-CE27-41E3-9F02-4B162B323CCD}|ej2\\ej2.vcxproj|solutionrelative:ej2\\principal_ej2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "principal_ej1.cpp",
+              "DocumentMoniker": "C:\\Users\\Miguel Toro\\Downloads\\spd_p9_tejado_vS2010_alumnos\\ej1\\principal_ej1.cpp",
+              "RelativeDocumentMoniker": "ej1\\principal_ej1.cpp",
+              "ToolTip": "C:\\Users\\Miguel Toro\\Downloads\\spd_p9_tejado_vS2010_alumnos\\ej1\\principal_ej1.cpp",
+              "RelativeToolTip": "ej1\\principal_ej1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-27T17:43:30.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "principal_ej2.cpp",
+              "DocumentMoniker": "C:\\Users\\Miguel Toro\\Downloads\\spd_p9_tejado_vS2010_alumnos\\ej2\\principal_ej2.cpp",
+              "RelativeDocumentMoniker": "ej2\\principal_ej2.cpp",
+              "ToolTip": "C:\\Users\\Miguel Toro\\Downloads\\spd_p9_tejado_vS2010_alumnos\\ej2\\principal_ej2.cpp",
+              "RelativeToolTip": "ej2\\principal_ej2.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-27T17:42:53.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
